@@ -1,5 +1,6 @@
 # Ex02 Commercial Website
-## Date:
+## NAME: kavibharathi K
+## REG NO: 212224220045
 
 ## AIM
 To create a commercial website using CSS Flexbox.
